@@ -1,0 +1,14 @@
+1:
+wir freuen uns Ihnen mitteilen zu dürfen, dass sie am College of Wizardry:Niebelungen angenommen wurden. Sie sind zu Ihrer Ausbildung zum [Pfad] am [Institut] zugelassen. Anbei finden Sie eine Liste der notwendigen Unterrichtsmaterialien und Ausrüstung. 
+
+Alle:
+wir weisen sie darauf hin, dass das neue Schuljahr am [DATE] beginnt. Wir erwarten ihre Eule bis zum [Date - 2Month]. Sie erreichen das College of Wizardry:Niebelungen über die gängigen Flugwege. 
+
+2:
+
+
+3:
+
+
+Haussprecher:
+Wir möchten Ihnen des weiteren zur Wahl des Haussprechers gratulieren. 

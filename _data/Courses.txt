@@ -1,0 +1,18 @@
+Alchemie - Gelehrte;
+Elementarmagie - Erfinder;
+Feenkunde - Wächter;
+Geistesmagie - UK;
+Heilkunde - AB;
+Kräuterkunde - AB;
+Kryptozoologie - AB;
+Magietheorie & Ethik - UK;
+Magische Arthefakte - Erfinder;
+Magische Verteidigung - Wächter;
+Numerologie & Geomantie - Erfinder;
+Physische Verteidigung - Wächter;
+Ritualmagie - Gelehrte;
+Runenkunde - NH;
+Studien der Gewöhnlichen - NH;
+Technomantik - NH;
+Verwünschungswissenschaften - Gelehrte;
+Weissagung - UK;
